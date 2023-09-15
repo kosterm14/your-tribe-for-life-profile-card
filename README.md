@@ -25,7 +25,8 @@
 ## Gebruik
 
 ## Bronnen
-
+https://prismic.io/docs/svelte
+https://svelte.dev/docs/introduction
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
