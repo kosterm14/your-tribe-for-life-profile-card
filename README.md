@@ -25,9 +25,9 @@
 ## Gebruik
 
 ## Bronnen
-https://prismic.io/docs/svelte
+* https://prismic.io/docs/svelte
 
-https://svelte.dev/docs/introduction
+* https://svelte.dev/docs/introduction
 
 ## Licentie
 
