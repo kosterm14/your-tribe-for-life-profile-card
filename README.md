@@ -29,6 +29,7 @@
 
 * https://svelte.dev/docs/introduction
 
+* https://kit.svelte.dev/docs/adapter-vercel
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
