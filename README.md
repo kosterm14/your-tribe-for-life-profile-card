@@ -12,6 +12,7 @@ Profile card (SvelteKit/Prismic)
 
 ## Beschrijving
 Dit is mijn profile card gemaakt met SvelteKit en Prismic als Tech stack
+
 <img src= "https://github.com/kosterm14/your-tribe-for-life-profile-card/assets/61830362/5aa9d91c-57fb-4709-a8e5-eb1043efa2cf" width= 50%>
 
 
